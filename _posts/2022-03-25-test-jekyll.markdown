@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to ruicheng!"
+title:  "Test Blog!"
 date:   2022-03-24 13:42:22 +0800
-categories: jekyll update
+categories: first blog
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
