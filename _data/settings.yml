@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Ruicheng Tiles
-logo: # You can add own logo. For example '/images/logo.png'.
+logo: # '/images/ruicheng.png' # You can add own logo. For example '/images/logo.png'.
 author: Jiaxin
 description: Clancy is a elegant portfolio theme for Jekyll.
 
@@ -33,7 +33,7 @@ hero:
 portfolio:
   portfolio__title: Portfolio
   portfolio__gallery:
-    - image: /images/gallery-01.jpg
+    - image: /images/tile1.jpg
       title: Samantha Gades
       description: Brown photo frame beside wall <a href="https://unsplash.com/photos/8Od75hgzb9Y">Unsplash</a>
 
