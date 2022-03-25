@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Strive not to be a success, but rather to be of value
+title:	纯色砖
 date:   2018-11-10 15:01:35 +0300
 image:  '/images/09.jpg'
 tags:   [technology, workflow, story]
