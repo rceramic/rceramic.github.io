@@ -23,5 +23,5 @@ tags:   [lifestyle, rest, notes]
     <img src="/images/dipushi2.jpg">
     <img src="/images/dipushi3.jpg">
   </div>
-  <em>Gallery / <a href="https://rceramic.github.io/" target="_blank">zhangzhou ruicheng ZRC</a></em>
+  <em>Gallery / <a href="https://rceramic.github.io/" target="_blank"></a></em>
 </div>
