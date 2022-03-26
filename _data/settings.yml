@@ -19,7 +19,7 @@ menu__settings:
     - title: 'Contact'
       url: '/contact/'
     - title: 'Elements'
-      url: '/elements/'
+      url: '/images/handbook.jpg'
 
 
 #-------------------------------
