@@ -2,7 +2,7 @@
 layout: post
 title:  地铺石
 description:
-date:   2022-11-11 15:01:35 +0300
+date:   2022-03-11 15:01:35 +0300
 image:  '/images/04.jpg'
 tags:   [lifestyle, rest, notes]
 ---
@@ -23,5 +23,5 @@ tags:   [lifestyle, rest, notes]
     <img src="/images/dipushi2.jpg">
     <img src="/images/dipushi3.jpg">
   </div>
-  <em>Gallery / <a href="https://rceramic.github.io/" target="_blank"></a></em>
+  <em>地铺石产品缩略图 / <a href="https://rceramic.github.io/" target="_blank"></a></em>
 </div>
