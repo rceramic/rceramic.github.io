@@ -3,7 +3,7 @@
 title: ZRC Ceramics
 logo: # '/images/ruicheng.png' # You can add own logo. For example '/images/logo.png'.
 author: Jiaxin
-description: Clancy is a elegant portfolio theme for Jekyll.
+description: Tile expert around you!
 
 
 #-------------------------------
@@ -25,7 +25,7 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__description:  Manufactor of Wall and Floor Tiles, OEM, wholesaler and Related Products.
+  hero__description:  Manufactor of wall and floor tiles, paving stone.
   hero__title: Better products better prices. Tile expert around you!
 
 #-------------------------------
@@ -97,7 +97,7 @@ social:
 # Contact Settings
 contact:
   email: woopsdsn@163.com # Add your email for contact form
-  description: Ruicheng comes with a built-in contact form, or you can contact us by email woopsdsn@163.com # Add a description of your form.
+  description: ZRC comes with a built-in contact form, or you can contact us by email woopsdsn@163.com # Add a description of your form.
 
 # NOTE
 # Clancy comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
