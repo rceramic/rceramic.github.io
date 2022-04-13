@@ -7,7 +7,6 @@ Clancy is an elegant portfolio theme for Jekyll designed for photographers, desi
 ### Demo
 
 Check the theme in action [Live Demo](https://clancy.netlify.app/) |
-[Artem Sheludko](https://jekyllthemes.io/developers/artem-sheludko)
 
 * * *
 
