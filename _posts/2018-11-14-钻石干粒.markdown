@@ -1,0 +1,21 @@
+---
+layout: post
+title:  钻石干粒系列
+date:   2019-11-14 15:01:35 +0300
+image:  '/images/zuanshi1-1.jpg'
+tags:   [workflow, hobby, study]
+---
+
+![钻石干粒]({{site.baseurl}}/images/zuanshi10-1.jpg)
+*Photo by [ZRC]()*
+
+![钻石干粒]({{site.baseurl}}/images/zuanshi13-1.jpg)
+*Photo by [ZRC]()*
+
+![钻石干粒]({{site.baseurl}}/images/zuanshi4-1.jpg)
+*Photo by [ZRC]()*
+
+![钻石干粒]({{site.baseurl}}/images/zuanshi7-1.jpg)
+*Photo by [ZRC]()*
+
+

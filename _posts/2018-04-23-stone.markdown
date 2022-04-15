@@ -1,0 +1,21 @@
+---
+layout: post
+title:  Stone
+date:   2018-04-23 15:01:35 +0300
+image:  '/images/stone10.jpg'
+tags:   [fashion, story, rest]
+---
+
+
+![Stone]({{site.baseurl}}/images/stone11.jpg)
+*Photo by [ZRC]()*
+
+![Stone]({{site.baseurl}}/images/stone12.jpg)
+*Photo by [ZRC]()*
+
+![Stone]({{site.baseurl}}/images/stone15.jpg)
+*Photo by [ZRC]()*
+
+![Stone]({{site.baseurl}}/images/stone14.jpg)
+*Photo by [ZRC]()*
+

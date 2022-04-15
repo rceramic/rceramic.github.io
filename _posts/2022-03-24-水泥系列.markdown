@@ -1,0 +1,19 @@
+---
+layout: post
+title:  水泥系列
+date:   2022-03-24 15:01:35 +0300
+image:  '/images/shuini13.jpg'
+tags:   [travel, hobby, notes]
+---
+
+![水泥]({{site.baseurl}}/images/shuini21.jpg)
+*Photo by [ZRC]()*
+
+![水泥]({{site.baseurl}}/images/shuini26.jpg)
+*Photo by [ZRC]()*
+
+![水泥]({{site.baseurl}}/images/shuini28.jpg)
+*Photo by [ZRC]()*
+
+![水泥]({{site.baseurl}}/images/shuini30.jpg)
+*Photo by [ZRC]()*
